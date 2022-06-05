@@ -1,0 +1,25 @@
+.close {
+  -webkit-appearance: none;
+  background-color: transparent;
+  border: 0;
+  color: #000;
+  float: right;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+  opacity: .5;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.radio {
+  display: flex;
+  align-items: center;
+
+  :first-child{
+    margin-right: 5px;
+  }
+
+  :nth-child(2) {
+    margin-right: 40px;
+  }
+}

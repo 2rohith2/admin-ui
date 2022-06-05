@@ -1,0 +1,30 @@
+$background :#bfeaff;
+$textColor: #014e76;
+
+.pages {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+
+  button:disabled {
+    cursor: not-allowed;
+  }
+
+  &__page-number {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    border: none;
+    background-color: $background;
+    color: $textColor;
+    margin-right: 20px;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .active-page {
+    color: $textColor;
+    background-color: white;
+    border: solid 1px $background;
+  }
+}

@@ -21,6 +21,7 @@ Clean Architecture for faster and easier code maintenance, as well as the Data S
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/2rohith2)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://in.linkedin.com/in/2rohith2)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://2rohith2.ml/admin-ui/)
 
 ## Tech stack used
 
